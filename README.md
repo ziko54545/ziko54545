@@ -1,20 +1,4 @@
-## Hi there 👋
-
-<!--
-**ziko54545/ziko54545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<h1 align="center">Hi There! 👋</h1>
 
 ###
 
@@ -67,23 +51,12 @@ Here are some ideas to get you started:
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziko54545&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ziko54545&locale=en&mode=daily&theme=react&hide_border=false" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziko54545&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ziko54545&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="250" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=ziko54545&locale=en&mode=weekly&theme=react&hide_border=false&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-
-
-###
-###
-
-<img src="https://raw.githubusercontent.com/ziko54545/ziko54545/output/snake.svg" alt="Snake animation" />
-
-###
 <br clear="both">
 
 <div align="center">
@@ -96,5 +69,3 @@ Here are some ideas to get you started:
 
 ###
 
-
-###
