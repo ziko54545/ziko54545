@@ -79,7 +79,11 @@ Here are some ideas to get you started:
 
 
 ###
+###
 
+<img src="https://raw.githubusercontent.com/ziko54545/ziko54545/output/snake.svg" alt="Snake animation" />
+
+###
 <br clear="both">
 
 <div align="center">
