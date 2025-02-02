@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi There! 👋</h1>
+
 
 ###
 
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ziko54545/ziko54545/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
@@ -92,6 +92,5 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Hello World!!</p>
 
 ###
