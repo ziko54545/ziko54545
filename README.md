@@ -1,71 +1,97 @@
-<h1 align="center">Hi There! 👋</h1>
-
-###
-
-<br clear="both">
-
-<h3 align="center">I am a passionate Full Stack Developer from Morocco 🇲🇦 with a strong interest in web development 💻. Currently, I am expanding my skills in Full-Stack Development 🚀, focusing on building scalable and efficient web applications. I enjoy tackling challenging projects that push my creativity 🎨 and technical abilities 🛠️. Always eager to learn 📚 and grow 🌱, I am open to collaborating 🤝 on innovative web development projects that drive impact and innovation.</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-</div>
-
-###
+<img src="https://capsule-render.vercel.app/api?type=wave&color=38BDF8&width=100%&height=150§ion=header"/>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ziko54545/count.svg?"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=5000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abderrahmane+Laourf;A+Web+Developer+from+Morocco;A+Full-Stack+Developer." alt="Typing SVG" />
 </div>
 
-###
+<!-- Top Wave Animation -->
 
-<br clear="both">
+---
+
+### 🚀 About Me
+
+```javascript
+// I'm a passionate developer with a love for clean code and intuitive design.
+// My journey is driven by a curiosity for what's next, pushing me to explore 
+// Web Dev, Cloud Computing, UI/UX, and the fascinating world of AI.
+
+const zakaria = {
+  location: "Morocco",
+  education: ["Full stack developper ", "alx back-end"],
+  learning: {
+    rightNow: ["ReactJS", "TailwindCSS", "Advanced JS"],
+    upNext: ["Node.js", "Express.js", "MongoDB"]
+  },
+  interests: {
+    professional: ["Web Development", "UI/UX Design", "Cloud Computing", "AI"],
+    personal: ["Competitive Gaming", "Problem Solving", "Content Creation"]
+  },
+  challenge: "I'm always ready for the next one."
+};
+```
+---
+
+### 💻 My Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ziko54545&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="250" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=ziko54545&locale=en&mode=weekly&theme=react&hide_border=false&date_format=j%20M%5B%20Y%5D" height="200" alt="streak graph"  />
+  <p><strong>Frontend</strong></p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
+  
+  <p><strong>Backend</strong></p>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Expressjs"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/></a>
+
+  <p><strong>Databases</strong></p>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+  
+  <p><strong>UI/UX Design</strong></p>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+  
+  <p><strong>Tools & Version Control</strong></p>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
 </div>
 
-###
+---
 
-<br clear="both">
+### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="49" alt="linkedin logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="49" alt="git logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="49" alt="twitter logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abderrahmane-laourf&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahmane-laourf&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
 </div>
 
-###
+---
+
+### 🌎 Connect With Me
+
+<div align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://discord.gg/your-invite" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="futuristic code animation" />
+</div>
+
+---
+
 
