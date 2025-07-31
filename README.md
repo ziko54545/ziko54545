@@ -64,10 +64,9 @@ const zakaria = {
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakariahannane&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariahannane&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abderrahmane-laourf&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahmane-laourf&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
 </div>
----
 
 ### 🌎 Connect With Me
 
