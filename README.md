@@ -90,37 +90,27 @@ const zakaria = {
 
 ---
 
-
-
-### 📊 My GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahmane-laourf&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
-
-</div>
-
 ### 🌎 Connect With Me
 
 <div align="center">
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/zakaria-hannane-332b75222/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.instagram.com/hannanezakaria08/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CrpPbDzFqJnNcPdqFQDNGVPtWvQvSNtSRgPsrNWJxswtBfgBKBVsRQPCtDfMBnzlBRPblZMHMWRfbbPMZmjq
 " target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" href="zakariahannane28@gmail.com"/>
   </a>
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+ 
   <a href="https://discord.gg/your-invite" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
 
 <div align="center">
+
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="futuristic code animation" />
 </div>
 
