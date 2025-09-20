@@ -34,12 +34,20 @@ const zakaria = {
 ### 💻 My Tech Stack
 
 <div align="center">
-  <p><strong>Frontend</strong></p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/></a>
   
-  <p><strong>Backend</strong></p>
+<p><strong>Frontend</strong></p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</a>
+
+  
+ 
  <p><strong>Backend</strong></p>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs"/>
@@ -84,8 +92,13 @@ const zakaria = {
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abderrahmane-laourf&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahmane-laourf&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+</a>
+
 </div>
 
 ### 🌎 Connect With Me
